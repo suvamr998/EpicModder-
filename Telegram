@@ -1,6 +1,6 @@
 {
   "packageName": "{
-  "packageName": "org.telegram.messenger",
+  "packageName": "org.telegram.messenger.web",
   "versionName": "12.7.0",
   "forceUpdate": false,
   "ExpiredDate": "2025/11/22 02:20",
